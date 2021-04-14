@@ -1,0 +1,15 @@
+{
+	"name": "DestinationDataset_lif",
+	"properties": {
+		"annotations": [],
+		"type": "SqlPoolTable",
+		"schema": [],
+		"typeProperties": {
+			"table": "cars"
+		},
+		"sqlPool": {
+			"referenceName": "dedicatedpool",
+			"type": "SqlPoolReference"
+		}
+	}
+}
